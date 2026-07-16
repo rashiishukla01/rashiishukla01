@@ -41,7 +41,7 @@ const rashiShukla = {
 > A premium, full-scale front-end weather application.
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rashiishukla01&repo=SkyPulse&theme=nord&border_color=7dd3fc&title_color=7dd3fc" alt="SkyPulse repo card"/>
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=rashiishukla01&repo=SkyPulse&theme=nord&border_color=7dd3fc&title_color=7dd3fc" alt="SkyPulse repo card"/>
 </div>
 
 | Layer      | Technology            |
@@ -81,8 +81,8 @@ const rashiShukla = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rashiishukla01&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9&hide_border=false" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashiishukla01&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&hide_border=false" alt="Top Languages" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api?username=rashiishukla01&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9&hide_border=false" alt="GitHub Stats" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=rashiishukla01&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&hide_border=false" alt="Top Languages" height="165"/>
 
 <img src="https://streak-stats.demolab.com/?user=rashiishukla01&theme=nord&border=7dd3fc&stroke=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" alt="GitHub Streak"/>
 
@@ -91,7 +91,7 @@ const rashiShukla = {
 ## 🏆 Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=rashiishukla01&theme=nord&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=rashiishukla01&theme=nord&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
 </div>
 
 ## 📈 Contribution Activity
